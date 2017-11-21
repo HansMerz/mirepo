@@ -6,5 +6,8 @@
   </head>
   <body>
     <h1>Git lo mejor :v</h1>
+    <form class="git" action="index.html" method="post">
+      <input type="text" name="campo" value="">
+    </form>
   </body>
 </html>
